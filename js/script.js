@@ -4,7 +4,7 @@ let cognome = prompt ('Dimmi il tuo cognome');
 let colore = prompt ('Dimmi il tuo colore preferito');
 let numero = '21';
 
-console.log(nome + " " + cognome + " "  + colore  + " " + numero);
+console.log(nome + cognome + colore + numero);
 
 let password = nome + cognome + colore + numero;
 
